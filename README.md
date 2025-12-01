@@ -130,7 +130,7 @@ This script will:
 
 ## Cron Scheduling
 
-### STEP 9️⃣ — Cron Scheduling
+### — Cron Scheduling
 
 Edit cron:
 
@@ -150,7 +150,7 @@ This runs the optimization script daily at 1 AM.
 
 ## Rundeck Scheduling (Optional)
 
-### STEP 1️⃣0️⃣ — Rundeck Scheduling
+### — Rundeck Scheduling
 
 1. Install Rundeck (Ubuntu):
 
