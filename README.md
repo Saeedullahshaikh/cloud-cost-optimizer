@@ -167,7 +167,7 @@ wget https://repo.rundeck.org/latest.rpm
 bash /project-path/scripts/optimize.sh
 ```
 
-* **Schedule:** daily at 1 AM (Exactly like your architecture diagram)
+* **Schedule:** daily at 1 AM 
 
 ---
 
